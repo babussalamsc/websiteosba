@@ -1,0 +1,509 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200..800&display=swap');
+
+
+.plus-jakarta-sans-aaa {
+  font-family: "Plus Jakarta Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+.macbook-air {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-air .div {
+  background-color: #ffffff;
+  width: 1280px;
+  height: 4499px;
+  position: relative;
+}
+
+.macbook-air .overlap {
+  position: absolute;
+  width: 1280px;
+  height: 1841px;
+  top: 776px;
+  left: 0;
+  background-color: #f3f3f3;
+}
+
+.macbook-air .frame {
+  position: absolute;
+  width: 970px;
+  height: 35px;
+  top: 83px;
+  left: 155px;
+}
+
+.macbook-air .fawas-ajg {
+  display: flex;
+  width: 970px;
+  align-items: center;
+  gap: 62px;
+  position: absolute;
+  top: 196px;
+  left: 155px;
+}
+
+.macbook-air .group {
+  position: relative;
+  width: 258.98px;
+  height: 348px;
+  background: linear-gradient(
+    180deg,
+    rgba(243, 243, 243, 0) 0%,
+    rgb(243, 243, 243) 100%
+  );
+}
+
+.macbook-air .overlap-group {
+  position: relative;
+  width: 233px;
+  height: 286px;
+  top: 62px;
+  left: 12px;
+  background-image: url(./img/image-14.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.macbook-air .bintang-osba {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 10px;
+  left: 103px;
+}
+
+.macbook-air .group-2 {
+  position: relative;
+  width: 558px;
+  height: 258.7px;
+}
+
+.macbook-air .group-3 {
+  position: absolute;
+  width: 562px;
+  height: 73px;
+  top: 0;
+  left: 0;
+}
+
+.macbook-air .text-wrapper {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  /* font-family: ;  */
+  font-weight: 700;
+  color: #273469;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 52.2px;
+  white-space: nowrap;
+}
+
+.macbook-air .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 39.2px;
+  white-space: nowrap;
+}
+
+.macbook-air .noduk {
+  position: absolute;
+  width: 210px;
+  height: 51px;
+  top: 122px;
+  left: 0;
+}
+
+.macbook-air .text-wrapper-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Plus Jakarta Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #a3a3a3;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 26.1px;
+  white-space: nowrap;
+}
+
+.macbook-air .text-wrapper-4 {
+  position: absolute;
+  top: 29px;
+  left: 0;
+  font-family: "Plus Jakarta Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 39.2px;
+  white-space: nowrap;
+}
+
+.macbook-air .ttl {
+  position: absolute;
+  width: 292px;
+  height: 51px;
+  top: 208px;
+  left: 0;
+}
+
+.macbook-air .fawas-ajg-2 {
+  display: flex;
+  width: 970px;
+  align-items: center;
+  gap: 62px;
+  position: absolute;
+  top: 1000px;
+  left: 155px;
+}
+
+.macbook-air .bintang-osba-wrapper {
+  position: relative;
+  width: 233px;
+  height: 286px;
+  top: 62px;
+  left: 12px;
+  background-image: url(./img/image.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.macbook-air .group-4 {
+  position: relative;
+  width: 592px;
+  height: 258.7px;
+}
+
+.macbook-air .group-5 {
+  position: absolute;
+  width: 596px;
+  height: 73px;
+  top: 0;
+  left: 0;
+}
+
+.macbook-air .text-wrapper-5 {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  font-family: "Plus Jakarta Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ef9a3c;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 52.2px;
+  white-space: nowrap;
+}
+
+.macbook-air .noduk-2 {
+  width: 218px;
+  left: 0;
+  position: absolute;
+  height: 51px;
+  top: 122px;
+}
+
+.macbook-air .ttl-2 {
+  width: 388px;
+  left: 0;
+  position: absolute;
+  height: 51px;
+  top: 208px;
+}
+
+.macbook-air .fardn {
+  display: flex;
+  width: 970px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 62px;
+  position: absolute;
+  top: 598px;
+  left: 155px;
+}
+
+.macbook-air .text-wrapper-6 {
+  position: absolute;
+  top: 43px;
+  left: 262px;
+  font-family: "Plus Jakarta Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #273469;
+  font-size: 40px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 52.2px;
+  white-space: nowrap;
+}
+
+.macbook-air .text-wrapper-7 {
+  position: absolute;
+  width: 558px;
+  top: 0;
+  left: 0;
+  font-family: "Plus Jakarta Sans-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 39.2px;
+}
+
+.macbook-air .noduk-3 {
+  width: 218px;
+  left: 344px;
+  position: absolute;
+  height: 51px;
+  top: 122px;
+}
+
+.macbook-air .text-wrapper-8 {
+  left: 66px;
+  text-align: right;
+  position: absolute;
+  top: 0;
+  font-family: "Plus Jakarta Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #a3a3a3;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 26.1px;
+  white-space: nowrap;
+}
+
+.macbook-air .text-wrapper-9 {
+  text-align: right;
+  position: absolute;
+  top: 29px;
+  left: 0;
+  font-family: "Plus Jakarta Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 39.2px;
+  white-space: nowrap;
+}
+
+.macbook-air .ttl-3 {
+  width: 291px;
+  left: 271px;
+  position: absolute;
+  height: 51px;
+  top: 208px;
+}
+
+.macbook-air .TEMPAT-TANGGAL-LAHIR {
+  left: 29px;
+  text-align: right;
+  position: absolute;
+  top: 0;
+  font-family: "Plus Jakarta Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #a3a3a3;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 26.1px;
+  white-space: nowrap;
+}
+
+.macbook-air .img-wrapper {
+  position: relative;
+  width: 233px;
+  height: 286px;
+  top: 62px;
+  left: 12px;
+  background-image: url(./img/image-14-3.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.macbook-air .fardn-2 {
+  display: flex;
+  width: 970px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 62px;
+  position: absolute;
+  top: 1402px;
+  left: 155px;
+}
+
+.macbook-air .text-wrapper-10 {
+  position: absolute;
+  top: 43px;
+  left: 62px;
+  font-family: "Plus Jakarta Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #ef9a3c;
+  font-size: 40px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 52.2px;
+  white-space: nowrap;
+}
+
+.macbook-air .noduk-4 {
+  width: 221px;
+  left: 341px;
+  position: absolute;
+  height: 51px;
+  top: 122px;
+}
+
+.macbook-air .text-wrapper-11 {
+  left: 69px;
+  text-align: right;
+  position: absolute;
+  top: 0;
+  font-family: "Plus Jakarta Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #a3a3a3;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 26.1px;
+  white-space: nowrap;
+}
+
+.macbook-air .ttl-4 {
+  width: 367px;
+  left: 195px;
+  position: absolute;
+  height: 51px;
+  top: 208px;
+}
+
+.macbook-air .TEMPAT-TANGGAL-LAHIR-2 {
+  left: 105px;
+  text-align: right;
+  position: absolute;
+  top: 0;
+  font-family: "Plus Jakarta Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #a3a3a3;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 26.1px;
+  white-space: nowrap;
+}
+
+.macbook-air .overlap-group-2 {
+  position: relative;
+  width: 233px;
+  height: 286px;
+  top: 62px;
+  left: 12px;
+  background-image: url(./img/image-14-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.macbook-air .img {
+  position: absolute;
+  width: 988px;
+  height: 530px;
+  top: 155px;
+  left: 146px;
+}
+
+.macbook-air .background {
+  position: fixed;
+  width: 1226px;
+  height: 88px;
+  top: 0;
+  left: 27px;
+  background-color: #ffffff80;
+  border-radius: 0px 0px 20px 20px;
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-color: #0000001a;
+  backdrop-filter: blur(40px) brightness(100%);
+  -webkit-backdrop-filter: blur(40px) brightness(100%);
+}
+
+.macbook-air .contact {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 10px 15px;
+  position: fixed;
+  top: 24px;
+  left: 54px;
+  background-color: #1e27491a;
+  border-radius: 35px;
+  transition: all 0.2s ease;
+}
+
+.macbook-air .contact:hover {
+  transform: scale(0.9);
+}
+
+.macbook-air .email {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.macbook-air .button-text {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: fit-content;
+  font-family: "Plus Jakarta Sans-Bold", Helvetica;
+  font-weight: 700;
+  color: #787878;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-air .container {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  position: fixed;
+  top: 24px;
+  left: 1082px;
+}
+
+.macbook-air .img-2 {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  transition: all 0.2s ease;
+}
+
+.macbook-air .img-2:hover {
+  transform: scale(0.9);
+}
+
+.macbook-air .logo-and-text {
+  position: fixed;
+  width: 318px;
+  height: 55px;
+  top: 17px;
+  left: 481px;
+}
